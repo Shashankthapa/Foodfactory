@@ -1,6 +1,0 @@
-// document.getElementsByClassName("button").classList.add("")
-function buttonMethod(){
-    document.querySelector("h1").style.color = "yellow";
-    document.querySelector("button").style.backgroundColor = "yellow";
-    document.querySelector("button").style.border = "0.5px solid";
-}
